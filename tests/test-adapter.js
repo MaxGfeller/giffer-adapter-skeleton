@@ -6,4 +6,5 @@ test('Test functionality of adapter', function(t) {
   t.ok(instance)
 
   // test start and stop functions
+  t.end()
 })
